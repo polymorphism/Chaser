@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Info</key>
+	<dict>
+		<key>REQUIRED</key>
+		<string>%@は必須です</string>
+		<key>INPUT_FAILED</key>
+		<string>%@の入力が誤っています。</string>
+		<key>INPUT_NOTFOUND</key>
+		<string>入力した%@がiPhone/iPadに登録されていません。</string>
+	</dict>
+</dict>
+</plist>
